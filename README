@@ -1,0 +1,11 @@
+TagText is a humble attempt to create a web—based annotation manager.
+
+At the core is the idea of a user-friendly environment that supports both-way hyper textual references between the text and the annotations and the simultaneous and dynamic display of these, as well as automatised adding of new texts and annotations. The other functions envisioned include intelligent grouping, ordering and display of  annotations. 
+
+Student of Classics myself, I intend the project to be useful mainly for the students of literature, languages and any texts that need to be deeply analysed. With a simple click, one should be able to consult a series of annotations pertinent to the clicked-on word, relating to the language, content, structure or whatever categories the user will want to analyse. 
+
+The idea stems from my frustrating experience with analysing texts with paper-based techniques only. Usually I needed to read the given book and write little ‘tags’ all over its margins and then go topic by topic, selecting pertinent tags and formulating my notes. 
+
+The imagined workflow with TagText is that you could read and tag the text, giving a small annotation once in a while and then simply display all places in the text tagged with the given tag and annotations made simultaneously. Simply, no endless page turning and manual referencing by chapter.paragraph.sentence.word or chapter.stanza.verse if you know what I mean…
+
+Since my background is in Classics, I also think about the inclusion of some sort of textual criticism sandbox, however, as of now this is only a conceptual whim lacking even a blurry vision of how I would implement it.
