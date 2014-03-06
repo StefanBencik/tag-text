@@ -41,7 +41,7 @@
           "id": 75,
           "attr": {
             "style": {
-              "background": "#ffff00"
+              "background": "#99cc00"
             }
           }
         }
@@ -234,11 +234,11 @@
           "ideas": {}
         },
         "4": {
-          "title": "Tags",
+          "title": "Tags Menu",
           "id": 42,
           "attr": {
             "style": {
-              "background": "#99cc00"
+              "background": "#00ff00"
             }
           }
         },
