@@ -1,5 +1,5 @@
 {
-  "title": "TagText Homepage\n\nDescription\nFeature log\nProject list\nNew project\nSign up\nLog in",
+  "title": "TagText Homepage\n\nDescription\nFeature log\nProject list\nNew project",
   "id": 1,
   "formatVersion": 2,
   "attr": {
@@ -24,10 +24,184 @@
       }
     },
     "-1": {
-      "title": "Project Homepage",
+      "title": "Project Homepage\n\nText crossroads\nTags manager\n\nRibbons\nTags",
       "id": 7,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Text Frame",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Text crossroads\n\nDisplays the textual architecture in a neatest way possible",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "Main Text\n\n...could have < > buttons",
+              "id": 24,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "References\n\nFramed display of places\n?Reference generation",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "Notes Frame",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Main Notes Display",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Tags Manager\n\nGlobal:\nSelection\nOrdering\n",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        },
+        "3": {
+          "title": "Notes ribbon\n\nLocal:\n Selection\nOrdering\nDisplay setting\n\nReferences",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          },
+          "ideas": {}
+        },
+        "4": {
+          "title": "Tags",
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Text ribbon\n\nTextual navigation\nDisplay setting",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
     }
   },
-  "links": []
+  "links": [
+    {
+      "ideaIdFrom": 28,
+      "ideaIdTo": 12,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 31,
+      "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 30,
+      "ideaIdTo": 31,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 23,
+      "ideaIdTo": 28,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 24,
+      "ideaIdTo": 28,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 31,
+      "ideaIdTo": 37,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 31,
+      "ideaIdTo": 40,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
