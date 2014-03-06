@@ -31,15 +31,6 @@
           "title": "Text Frame",
           "id": 12,
           "ideas": {
-            "1": {
-              "title": "Text crossroads\n\nDisplays the textual architecture in a neatest way possible",
-              "id": 23,
-              "attr": {
-                "style": {
-                  "background": "#ffcc99"
-                }
-              }
-            },
             "2": {
               "title": "Main Text\n\n...could have < > buttons",
               "id": 24,
@@ -58,6 +49,15 @@
                   "background": "#ffcc99"
                 }
               }
+            },
+            "2.5": {
+              "title": "Text crossroads\n\nDisplays the textual architecture in a neatest way possible",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
             }
           },
           "attr": {
@@ -71,7 +71,7 @@
           "id": 14,
           "ideas": {
             "1": {
-              "title": "Main Notes Display",
+              "title": "Automatic surveyor\n\non-click\non-scroll",
               "id": 30,
               "attr": {
                 "style": {
@@ -88,6 +88,34 @@
                   "background": "#ff99cc"
                 }
               }
+            },
+            "3": {
+              "title": "New note",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            },
+            "4": {
+              "title": "Template manager",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            },
+            "1.5": {
+              "title": "Query surveyor\n\nRange-defined",
+              "id": 48,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              },
+              "ideas": {}
             }
           },
           "attr": {
@@ -132,76 +160,5 @@
       }
     }
   },
-  "links": [
-    {
-      "ideaIdFrom": 28,
-      "ideaIdTo": 12,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 31,
-      "ideaIdTo": 14,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 30,
-      "ideaIdTo": 31,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 23,
-      "ideaIdTo": 28,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 24,
-      "ideaIdTo": 28,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 31,
-      "ideaIdTo": 37,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 31,
-      "ideaIdTo": 40,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    }
-  ]
+  "links": []
 }
