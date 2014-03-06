@@ -1,0 +1,263 @@
+{
+  "title": "TagText Homepage\n\nDescription\nFeature log\nProject list\nNew project",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#ffff00"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "New Project\n\n",
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Settings",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "Text entry settings",
+          "id": 73,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {}
+        },
+        "3": {
+          "title": "Text entry",
+          "id": 75,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Database",
+      "id": 55,
+      "attr": {
+        "style": {
+          "background": "#00ffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Project Settings",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Text",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Notes",
+          "id": 65,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Tags",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "5": {
+          "title": "Reference",
+          "id": 68,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "6": {
+          "title": "Templates",
+          "id": 71,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Tags hierarchy",
+          "id": 72,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Project Homepage\n\nText crossroads\nTags manager\n\nRibbons\nTags",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Text Frame",
+          "id": 12,
+          "ideas": {
+            "2": {
+              "title": "Main Text\n\n...could have < > buttons",
+              "id": 24,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "References\n\nFramed display of places\n?Reference generation",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Text crossroads\n\nDisplays the textual architecture in a neatest way possible",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "Notes Frame",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Automatic surveyor\n\non-click\non-scroll",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Tags Manager\n\nGlobal:\nSelection\nOrdering\n",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            },
+            "3": {
+              "title": "New note",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            },
+            "4": {
+              "title": "Template manager",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
+            },
+            "1.5": {
+              "title": "Query surveyor\n\nRange-defined\nNotes\nTags (Highlights)",
+              "id": 48,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              },
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        },
+        "3": {
+          "title": "Notes ribbon\n\nLocal:\n Selection\nOrdering\nDisplay setting\n\nReferences",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          },
+          "ideas": {}
+        },
+        "4": {
+          "title": "Tags",
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Text ribbon\n\nTextual navigation\nDisplay setting",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      }
+    }
+  },
+  "links": []
+}
